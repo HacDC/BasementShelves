@@ -1,0 +1,14 @@
+_Method_
+Simulation, not real-world test results.
+1000kg (1 Metric Ton) of force was applied to each 4'x8' plywood sheet.
+
+_Results_
+Top scale for stress under these conditions is apparently ~14MPa, probably below the failure point of most wood.
+Top scale for displacement under these conditions is apparently ~1cm. 
+
+_Conclusions_
+Recommend <250kg per plywood sheet (3 metric tons total).
+
+Structural timber would probably survive one metric ton (1000kg) per plywood sheet (12 metric tons total).
+
+Reaching these limits may require extra screws, beyond those suggested by the predrilled holes in the CAD drawing.
