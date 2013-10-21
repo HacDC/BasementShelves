@@ -3,8 +3,8 @@ Simulation, not real-world test results.
 1000kg (1 Metric Ton) of force was applied to each 4'x8' plywood sheet.
 
 _Results_
-Top scale for stress under these conditions is apparently ~14MPa, probably below the failure point of most wood.
-Top scale for displacement under these conditions is apparently ~1cm. 
+Top scale for stress under these conditions is apparently ~7.2MPa, probably below the failure point of most wood.
+Top scale for displacement under these conditions is apparently ~1mm. Shelf sagging is became less significant, probably as the supports moved closer to the center.
 
 _Conclusions_
 Recommend <250kg per plywood sheet (3 metric tons total).
