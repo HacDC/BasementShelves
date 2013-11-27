@@ -4,11 +4,16 @@ See license.txt for OpenShelves license conditions.
 
 mirage335-site.dyndns.org
 
+Not recommended for new designs, for HacDC documentation only.
+
+Based on obsolete OpenShelves codebase. See https://github.com/mirage335/OpenBuildings
+if interested in designing new shelves.
+
 Modified for HacDC Basement. Intended for placement a few feet away
 from wall in both rooms, accessible from both sides, providing a
 sort of warehouse.
 8' high, 16' long, 4' deep, 16" elevations, density-optimized reinforcement.
-$264.99 for 384 sq.ft. at $1.44/sq.ft.
+$264.99 for 384 sq.ft. at $0.70/sq.ft.
 
 __Copyright__
 This file is part of OpenShelves.
